@@ -24,7 +24,7 @@
   },
   "author": "James Pike <github@chilon.net>",
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "rxjs": "^5.0.1"
   },
   "devDependencies": {
